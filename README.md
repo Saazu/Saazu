@@ -2,7 +2,6 @@
 
 Think of this account as an external hard drive for the things I dabble in, not as a portfolio
 
-[See this website for samples of my writing](https://saazu.github.io)
 <!--
 **Saazu/Saazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
